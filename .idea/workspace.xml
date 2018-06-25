@@ -59,8 +59,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/account-backend/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+            <state relative-caret-position="432">
+              <caret line="100" column="21" lean-forward="true" selection-start-line="83" selection-start-column="12" selection-end-line="100" selection-end-column="21" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
@@ -199,12 +199,10 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/account-frontend/node_modules" />
-    <handled-path value="$PROJECT_DIR$/frontdemo/fdemo/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/account-frontend/package.json" />
-      <path value="$PROJECT_DIR$/frontdemo/fdemo/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -379,12 +377,12 @@
       <updated>1529834592995</updated>
       <workItem from="1529834598361" duration="15312000" />
       <workItem from="1529956870884" duration="1247000" />
-      <workItem from="1529960471448" duration="1349000" />
+      <workItem from="1529960471448" duration="1960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17908000" />
+    <option name="totallyTimeSpent" value="18519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -713,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/account-backend/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        <state relative-caret-position="432">
+          <caret line="100" column="21" lean-forward="true" selection-start-line="83" selection-start-column="12" selection-end-line="100" selection-end-column="21" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
