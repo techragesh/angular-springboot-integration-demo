@@ -19,6 +19,6 @@ This project explains how to integrate springboot and angular by using simple CR
 ![ang-edit.png](ang-edit.png)
 
 ***Rest Service***
-![ang-spring-view.png](ang-spring-view)
+![ang-spring-view.png](ang-spring-view.png)
 
 ### Happy Coding 
