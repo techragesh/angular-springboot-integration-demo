@@ -13,10 +13,15 @@ Angular
 --------
 
 ng g c login -m app.module
+
 ng g c add-account -m app.module
+
 ng g c edit-account -m app.module
+
 ng g c list-account -m app.module
+
 ng g s /service/account
+
 ng g cl /model/account
 
 package.json
